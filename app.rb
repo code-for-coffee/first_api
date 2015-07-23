@@ -8,7 +8,7 @@ end
 
 # http://localhost/api/awesome/
 get '/api/awesome' do
-  # do something else
+  {:everyone => 'is awesome', :tegan_and_sara => 'rock'}.to_json
 end
 
 # https://me.github.io/project1/
