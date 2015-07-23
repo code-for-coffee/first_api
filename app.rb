@@ -1,4 +1,4 @@
-require 'Bundler'
+require 'bundler'
 Bundler.require()
 
 # http://localhost/
