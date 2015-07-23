@@ -15,6 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   json
   sinatra
 
